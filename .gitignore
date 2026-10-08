@@ -1,0 +1,27 @@
+# Foundry build output
+out/
+cache/
+broadcast/
+
+# Coverage / gas reports
+lcov.info
+coverage/
+report/
+.gas-snapshot
+
+# Other toolchains
+node_modules/
+target/
+
+# Secrets: never commit keys or RPC URLs
+.env
+.env.*
+!.env.example
+*keypair*.json
+*.key
+secrets/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
