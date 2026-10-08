@@ -498,7 +498,7 @@ on-chain with `cast` to produce the brief's deliverable transactions.
 | Network | Sepolia (chain id 11155111) |
 | Contract address | [`0xCb21D40e224Cb6894B1267b77Cb6eDd357c39d0C`](https://sepolia.etherscan.io/address/0xCb21D40e224Cb6894B1267b77Cb6eDd357c39d0C) |
 | Etherscan | https://sepolia.etherscan.io/address/0xCb21D40e224Cb6894B1267b77Cb6eDd357c39d0C |
-| Etherscan verified code | https://sepolia.etherscan.io/address/0xCb21D40e224Cb6894B1267b77Cb6eDd357c39d0C#code |
+| Etherscan verified code (exact match) | https://sepolia.etherscan.io/address/0xCb21D40e224Cb6894B1267b77Cb6eDd357c39d0C#code |
 | Sourcify (exact match) | https://repo.sourcify.dev/11155111/0xCb21D40e224Cb6894B1267b77Cb6eDd357c39d0C |
 | Blockscout (verified) | https://eth-sepolia.blockscout.com/address/0xCb21D40e224Cb6894B1267b77Cb6eDd357c39d0C?tab=contract |
 | Deployer / owner | [`0xc403493F865A2BAD1459f711E8f4a7335ee92ef1`](https://sepolia.etherscan.io/address/0xc403493F865A2BAD1459f711E8f4a7335ee92ef1) |
